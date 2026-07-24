@@ -85,10 +85,10 @@ Buzz
 ## Project Structure
 
 ```text
-HelloApp
+FizzBUzz
 │
 ├── Program.cs
-├── HelloApp.csproj
+├── FizzBuzz.csproj
 ├── .gitignore
 └── README.md
 ```
